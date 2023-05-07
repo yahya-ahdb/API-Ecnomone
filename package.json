@@ -7,7 +7,10 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "yahya ahdab",
+  "engines": {
+    "node": "18.15.0"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
