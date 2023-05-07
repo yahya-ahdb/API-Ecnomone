@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "react-scripts build"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "yahya ahdab",
